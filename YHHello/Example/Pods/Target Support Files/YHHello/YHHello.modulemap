@@ -1,0 +1,6 @@
+framework module YHHello {
+  umbrella header "YHHello-umbrella.h"
+
+  export *
+  module * { export * }
+}

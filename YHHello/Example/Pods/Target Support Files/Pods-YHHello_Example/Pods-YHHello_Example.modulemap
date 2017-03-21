@@ -1,0 +1,6 @@
+framework module Pods_YHHello_Example {
+  umbrella header "Pods-YHHello_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YHHello (0.1.0)
+
+DEPENDENCIES:
+  - YHHello (from `../`)
+
+EXTERNAL SOURCES:
+  YHHello:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YHHello: 19d5049995f1c4db8c8b64925fcaf6adf81841ca
+
+PODFILE CHECKSUM: 86d0b8561326d2ea7a7714f2bffe9a949383f4b2
+
+COCOAPODS: 1.1.1

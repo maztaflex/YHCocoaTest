@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YHHello_Example' do
+  pod 'YHHello', :path => '../'
+
+  target 'YHHello_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
