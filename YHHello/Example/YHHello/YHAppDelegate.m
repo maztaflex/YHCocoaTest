@@ -8,11 +8,18 @@
 
 #import "YHAppDelegate.h"
 
+@import YHHello;
+
 @implementation YHAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    YHHelloWorld *hw = [[YHHelloWorld alloc] init];
+    
+    [hw helloWorld];
+    
     return YES;
 }
 
