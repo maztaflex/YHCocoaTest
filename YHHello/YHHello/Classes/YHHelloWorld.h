@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+@import AFNetworking;
+
 @interface YHHelloWorld : NSObject
 
 - (void)helloWorld;
