@@ -30,7 +30,7 @@ sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdl
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YHHello/Classes/**/*'
+  s.source_files = 'YHHello/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'YHHello' => ['YHHello/Assets/*.png']
