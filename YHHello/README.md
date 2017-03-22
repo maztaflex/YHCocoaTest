@@ -22,7 +22,7 @@ pod "YHHello"
 
 ## Author
 
-yonghwinam, yonghwinam@smtown.com
+DooZer, ios.developer.good@gmail.com
 
 ## License
 
