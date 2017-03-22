@@ -13,8 +13,6 @@
 - (void)helloWorld
 {
     NSLog(@"helloWorld");
-    
-    AFURLSessionManager *sesstionManager = [AFURLSessionManager new];
 }
 
 @end
