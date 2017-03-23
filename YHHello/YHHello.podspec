@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YHHello'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkj'
 
 # This description is used to generate tags and improve search results.
@@ -30,8 +30,8 @@ sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdl
 
   s.ios.deployment_target = '8.0'
 
-s.source_files = 'YHHello/Classes/*.*' # For development
-#s.source_files = 'YHHello/YHHello/Classes/*.*'# For Release
+#s.source_files = 'YHHello/Classes/*.*' # For development
+s.source_files = 'YHHello/YHHello/Classes/*.*'# For Release
   
   # s.resource_bundles = {
   #   'YHHello' => ['YHHello/Assets/*.png']
