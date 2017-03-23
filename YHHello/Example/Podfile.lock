@@ -1,21 +1,5 @@
 PODS:
-  - AFNetworking (3.1.0):
-    - AFNetworking/NSURLSession (= 3.1.0)
-    - AFNetworking/Reachability (= 3.1.0)
-    - AFNetworking/Security (= 3.1.0)
-    - AFNetworking/Serialization (= 3.1.0)
-    - AFNetworking/UIKit (= 3.1.0)
-  - AFNetworking/NSURLSession (3.1.0):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (3.1.0)
-  - AFNetworking/Security (3.1.0)
-  - AFNetworking/Serialization (3.1.0)
-  - AFNetworking/UIKit (3.1.0):
-    - AFNetworking/NSURLSession
-  - YHHello (0.1.1):
-    - AFNetworking (~> 3.0)
+  - YHHello (0.1.4)
 
 DEPENDENCIES:
   - YHHello (from `../`)
@@ -25,8 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  YHHello: 42e9937ba36139494f8c395b1c920d0901348a43
+  YHHello: 6aee8d08b6ea7f5a993cca6c01ebb34ecfc75d4d
 
 PODFILE CHECKSUM: 86d0b8561326d2ea7a7714f2bffe9a949383f4b2
 

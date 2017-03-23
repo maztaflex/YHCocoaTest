@@ -25,12 +25,13 @@ sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdl
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yonghwinam' => 'yonghwinam@smtown.com' }
-  s.source           = { :git => 'https://github.com/maztaflex/YHCocoaTest.git', :tag => '0.1.4' }
+  s.source           = { :git => 'https://github.com/maztaflex/YHCocoaTest.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YHHello/YHHello/classes/*.*'
+s.source_files = 'YHHello/Classes/*.*' # For development
+#s.source_files = 'YHHello/YHHello/Classes/*.*'# For Release
   
   # s.resource_bundles = {
   #   'YHHello' => ['YHHello/Assets/*.png']
@@ -38,6 +39,6 @@ sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdl
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-    s.dependency 'AFNetworking', '~> 3.0'
+#  s.dependency 'AFNetworking', '~> 3.0'
 
 end
