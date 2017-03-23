@@ -14,5 +14,6 @@
 
 - (void)helloWorld;
 - (void)helloWorld1;
+- (void)helloWorld2;
 
 @end
