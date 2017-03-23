@@ -15,4 +15,8 @@
     NSLog(@"helloWorld");
 }
 
+- (void)helloWorld1
+{
+    NSLog(@"helloWorld1");
+}
 @end

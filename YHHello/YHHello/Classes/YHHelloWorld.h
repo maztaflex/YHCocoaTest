@@ -13,5 +13,6 @@
 @interface YHHelloWorld : NSObject
 
 - (void)helloWorld;
+- (void)helloWorld1;
 
 @end
