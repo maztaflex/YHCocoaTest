@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YHHello'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkj'
 
 # This description is used to generate tags and improve search results.
@@ -25,12 +25,12 @@ sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdl
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yonghwinam' => 'yonghwinam@smtown.com' }
-  s.source           = { :git => 'https://github.com/maztaflex/YHCocoaTest.git', :tag => '0.1.1' }
+  s.source           = { :git => 'https://github.com/maztaflex/YHCocoaTest.git', :tag => '0.1.2' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YHHello/Classes/*.{h,m}'
+  s.source_files = 'YHHello/YHHello/classes/*.*'
   
   # s.resource_bundles = {
   #   'YHHello' => ['YHHello/Assets/*.png']
