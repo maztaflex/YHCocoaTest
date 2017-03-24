@@ -24,4 +24,9 @@
 {
     NSLog(@"helloWorld2");
 }
+
+- (void)helloWorld3
+{
+    NSLog(@"1.0.0");
+}
 @end
