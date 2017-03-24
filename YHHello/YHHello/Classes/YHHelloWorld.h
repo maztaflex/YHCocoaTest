@@ -13,5 +13,6 @@
 - (void)helloWorld;
 - (void)helloWorld1;
 - (void)helloWorld2;
+- (void)helloWorld3;
 
 @end
