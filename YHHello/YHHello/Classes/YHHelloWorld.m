@@ -12,7 +12,7 @@
 
 - (void)helloWorld
 {
-    NSLog(@"helloWorld");
+    NSLog(@"helloWorld 0.2.0");
 }
 
 - (void)helloWorld1
