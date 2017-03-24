@@ -1,5 +1,5 @@
 PODS:
-  - YHHello (0.1.4)
+  - YHHello (1.1.0)
 
 DEPENDENCIES:
   - YHHello (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  YHHello: 6aee8d08b6ea7f5a993cca6c01ebb34ecfc75d4d
+  YHHello: 59ef45c2d77b732cb86c300977e775f93ea9aa49
 
 PODFILE CHECKSUM: 86d0b8561326d2ea7a7714f2bffe9a949383f4b2
 

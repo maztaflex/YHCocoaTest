@@ -8,6 +8,8 @@
 
 @import XCTest;
 
+@import YHHello;
+
 @interface Tests : XCTestCase
 
 @end
@@ -28,7 +30,9 @@
 
 - (void)testExample
 {
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    YHHelloWorld *yhWorld = [YHHelloWorld new];
+    
+    [yhWorld helloWorld];
 }
 
 @end

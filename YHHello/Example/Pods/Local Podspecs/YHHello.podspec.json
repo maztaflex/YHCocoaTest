@@ -1,6 +1,6 @@
 {
   "name": "YHHello",
-  "version": "0.1.4",
+  "version": "1.1.0",
   "summary": "sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkj",
   "description": "sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkj",
   "homepage": "https://github.com/maztaflex/YHCocoaTest",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/maztaflex/YHCocoaTest.git",
-    "tag": "0.1.4"
+    "tag": "1.1.0"
   },
   "platforms": {
     "ios": "8.0"
